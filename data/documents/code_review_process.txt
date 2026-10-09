@@ -1,0 +1,36 @@
+NORTHSTAR ANALYTICS — CODE REVIEW PROCESS
+Document status: Synthetic test data
+Effective date: January 1, 2024
+Process owner: Rafael Ortiz, Engineering Manager
+
+PURPOSE
+This process governs how Engineering reviews application and infrastructure changes before
+they are deployed to production.
+
+STANDARD WORKFLOW
+1. The developer creates a branch and links the change to a work item.
+2. The developer adds automated tests and completes the pull-request checklist.
+3. A qualified reviewer evaluates logic, security, maintainability, and test coverage.
+4. The pull request receives required approvals before merging.
+5. The deployment pipeline records the merge, test result, reviewer, and deployment time.
+
+APPROVAL THRESHOLDS
+Routine changes require one qualified approval. Changes affecting authentication,
+authorization, Restricted data, payment logic, or production infrastructure require two
+qualified approvals, including one reviewer with relevant subject-matter expertise.
+
+QUALITY TARGETS
+At least 95% of production-bound pull requests should include a linked work item.
+At least 90% should include automated test evidence. Emergency changes require retrospective
+review within one business day.
+
+REJECTION AND ESCALATION
+Reviewers must request changes when security controls, tests, documentation, or acceptance
+criteria are incomplete. A developer may escalate an unresolved review to Rafael Ortiz.
+The target review turnaround is one business day for routine changes and four business hours
+for urgent production fixes.
+
+EVIDENCE
+Required evidence includes the pull request, approvals, automated test results, exceptions,
+and deployment record. Rafael Ortiz reviews monthly compliance metrics and reports material
+exceptions to Maya Chen.

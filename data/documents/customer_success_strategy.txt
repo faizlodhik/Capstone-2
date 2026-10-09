@@ -1,0 +1,35 @@
+NORTHSTAR ANALYTICS — CUSTOMER SUCCESS STRATEGY
+Document status: Synthetic test data
+Effective date: January 1, 2024
+Strategy owner: Priya Nair, Director of Customer Success
+
+OBJECTIVE
+Customer Success supports retention and adoption for Core Platform and Analytics Pro across
+North America, Europe, and Asia-Pacific. The strategy applies to Enterprise, Mid-Market,
+and SMB customer segments.
+
+CUSTOMER HEALTH
+Customer health is assessed using product adoption, support activity, open escalations,
+renewal timing, and executive engagement. A declining health signal requires an owner and
+next action within five business days.
+
+RETENTION TARGETS
+The operating target is to reduce avoidable customer churn while maintaining responsive
+service. Monthly churn rate is calculated as churned_customers divided by customers_start.
+The business_metrics.csv file contains both fields and customers_end for reconciliation.
+
+SERVICE TARGETS
+Customer Success targets acknowledgement of complaints within one business day and standard
+resolution within five business days. Support trends should be reviewed with revenue,
+customer counts, and segment information rather than in isolation.
+
+RECOMMENDED ACTIONS
+For repeated complaints, Customer Success should coordinate a root-cause review with
+Engineering. For declining adoption, the account team should provide enablement or a
+success plan. For high-risk renewals, Sales and Customer Success should agree on an owner,
+next milestone, and customer communication plan.
+
+REPORTING
+Priya Nair reviews monthly retention, support, and resolution metrics. The strategy should
+be adjusted when a policy creates avoidable customer friction or when service performance
+falls below the documented thresholds.

@@ -1,0 +1,29 @@
+NORTHSTAR ANALYTICS — EMPLOYEE SATISFACTION POLICY
+Document status: Synthetic test data
+Effective date: January 1, 2024
+Policy owner: Elena Brooks, Director of People Operations
+
+MEASUREMENT
+Employee satisfaction is measured on a 0–100 scale through a quarterly anonymous survey.
+The score is the average of valid responses across Engineering, Sales, Customer Success,
+and Operations. The company target is at least 78.
+
+GOVERNANCE
+People Operations administers the survey during the final month of each quarter. Results
+are segmented by department and reported at company level. Results with fewer than five
+responses are suppressed to protect confidentiality.
+
+ACTION THRESHOLDS
+A score below 70 requires a documented improvement plan within 30 days. A decline of five
+or more points from the prior quarter requires leadership review. Improvement plans should
+address workload, manager effectiveness, career development, tools, or operating processes.
+
+RELEVANT POLICIES
+Employee satisfaction may be affected by code-review workload, customer escalation volume,
+sales target pressure, training requirements, and access to appropriate work tools. These
+relationships are hypotheses for analysis and are not proof of causation.
+
+DATA SOURCE
+The business_metrics.csv file contains an employee_satisfaction_score field using the
+0–100 scale. The value is synthetic and repeated across operational rows for analytical
+testing. Elena Brooks owns survey governance and quarterly action tracking.

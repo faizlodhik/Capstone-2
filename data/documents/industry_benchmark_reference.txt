@@ -1,0 +1,32 @@
+NORTHSTAR ANALYTICS — SYNTHETIC BENCHMARK REFERENCE
+Document status: Synthetic test data
+Effective date: January 1, 2024
+Owner: Elena Brooks, Director of People Operations
+
+IMPORTANT LIMITATION
+All values in this document are synthetic comparison benchmarks created solely for testing
+retrieval, quantitative analysis, and recommendation workflows. They are not authoritative
+external research, market statistics, or Deloitte guidance.
+
+COMPARISON BENCHMARKS
+Employee satisfaction benchmark: 75 on a 0–100 scale.
+Monthly customer churn benchmark: 2.5% of customers_start.
+Average complaint-resolution benchmark: 5.0 business days.
+Support-case resolution benchmark: 90% of cases resolved within the reporting period.
+
+COMPARISON METHOD
+Compare Northstar Analytics results with these synthetic values only after confirming the
+metric definition, period, population, and denominator. Employee satisfaction should use
+employee_satisfaction_score. Churn should use churned_customers divided by
+customers_start. Support resolution should use resolved_cases divided by support_cases.
+Average resolution should use average_resolution_days.
+
+INTERPRETATION
+A result above or below a benchmark is an analytical signal, not proof of a cause. Analysts
+must consider region, product, customer segment, reporting period, and data completeness.
+Recommendations should be connected to documented company policies and customer-success
+strategies.
+
+KNOWN LIMITATIONS
+The benchmarks are not validated against external sources. The dataset is fictional, and
+the employee satisfaction score is repeated across operational rows for testing convenience.

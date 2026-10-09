@@ -1,0 +1,37 @@
+NORTHSTAR ANALYTICS — CUSTOMER COMPLAINTS POLICY
+Document status: Synthetic test data
+Effective date: January 1, 2024
+Policy owner: Priya Nair, Director of Customer Success
+
+PURPOSE
+This policy defines how Northstar Analytics receives, records, investigates, resolves, and
+escalates customer complaints for Core Platform and Analytics Pro.
+
+DEFINITIONS
+A complaint is an expression of dissatisfaction that requires investigation or corrective
+action. A complaint is distinct from a standard support request, although a support request
+may become a complaint if service expectations are not met.
+
+REQUIRED RESPONSE TIMES
+Customer Success must acknowledge a complaint within one business day. The target is to
+resolve standard complaints within five business days. Complaints involving security,
+privacy, billing, or potential contractual impact must be escalated to the appropriate
+functional owner on the same business day.
+
+WORKFLOW
+1. Record the customer, product, region, issue category, priority, and received date.
+2. Assign an owner and acknowledge the complaint.
+3. Investigate the cause using support history and customer context.
+4. Provide a documented response and corrective action.
+5. Obtain customer confirmation when appropriate and close the record.
+6. Review trends monthly for systemic improvements.
+
+QUALITY THRESHOLDS
+At least 95% of complaints should receive acknowledgement within one business day.
+At least 90% of standard complaints should be resolved within five business days.
+Complaints reopened by the customer require a manager review within two business days.
+
+MEASUREMENT
+The business_metrics.csv file contains support_cases, resolved_cases, and
+average_resolution_days. These fields support trend analysis but do not replace individual
+complaint records. Priya Nair owns monthly reporting and corrective-action tracking.

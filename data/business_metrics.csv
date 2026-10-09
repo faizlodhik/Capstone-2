@@ -1,0 +1,433 @@
+month,quarter,year,region,product,customer_segment,revenue,customers_start,new_customers,churned_customers,customers_end,employee_satisfaction_score,support_cases,resolved_cases,average_resolution_days
+2024-01,Q1,2024,North America,Core Platform,Enterprise,18000,90,8,2,96,74,28,25,4.8
+2024-01,Q1,2024,North America,Core Platform,Mid-Market,27000,115,9,3,121,73,32,28,5.0
+2024-01,Q1,2024,North America,Core Platform,SMB,36000,140,10,4,146,72,36,32,5.2
+2024-01,Q1,2024,North America,Analytics Pro,Enterprise,24500,104,10,2,112,75,35,31,4.8
+2024-01,Q1,2024,North America,Analytics Pro,Mid-Market,33500,129,11,3,137,74,39,34,5.0
+2024-01,Q1,2024,North America,Analytics Pro,SMB,42500,154,12,4,162,73,43,38,5.2
+2024-01,Q1,2024,Europe,Core Platform,Enterprise,21500,108,9,2,115,75,33,29,4.95
+2024-01,Q1,2024,Europe,Core Platform,Mid-Market,30500,133,10,3,140,74,37,33,5.15
+2024-01,Q1,2024,Europe,Core Platform,SMB,39500,158,11,4,165,73,41,36,5.35
+2024-01,Q1,2024,Europe,Analytics Pro,Enterprise,28000,122,11,2,131,76,40,35,4.95
+2024-01,Q1,2024,Europe,Analytics Pro,Mid-Market,37000,147,12,3,156,75,44,39,5.15
+2024-01,Q1,2024,Europe,Analytics Pro,SMB,46000,172,13,4,181,74,48,42,5.35
+2024-01,Q1,2024,Asia-Pacific,Core Platform,Enterprise,25000,126,10,2,134,76,38,33,5.1
+2024-01,Q1,2024,Asia-Pacific,Core Platform,Mid-Market,34000,151,11,3,159,75,42,37,5.3
+2024-01,Q1,2024,Asia-Pacific,Core Platform,SMB,43000,176,12,5,183,74,46,40,5.5
+2024-01,Q1,2024,Asia-Pacific,Analytics Pro,Enterprise,31500,140,12,3,149,77,45,40,5.1
+2024-01,Q1,2024,Asia-Pacific,Analytics Pro,Mid-Market,40500,165,13,4,174,76,49,43,5.3
+2024-01,Q1,2024,Asia-Pacific,Analytics Pro,SMB,49500,190,14,5,199,75,53,47,5.5
+2024-02,Q1,2024,North America,Core Platform,Enterprise,18216,93,9,2,100,74,29,26,4.55
+2024-02,Q1,2024,North America,Core Platform,Mid-Market,27324,118,10,3,125,73,33,30,4.75
+2024-02,Q1,2024,North America,Core Platform,SMB,36432,143,11,4,150,72,37,33,4.95
+2024-02,Q1,2024,North America,Analytics Pro,Enterprise,24794,107,11,2,116,75,36,32,4.55
+2024-02,Q1,2024,North America,Analytics Pro,Mid-Market,33902,132,12,3,141,74,40,36,4.75
+2024-02,Q1,2024,North America,Analytics Pro,SMB,43010,157,13,4,166,73,44,40,4.95
+2024-02,Q1,2024,Europe,Core Platform,Enterprise,21758,111,10,2,119,75,34,31,4.7
+2024-02,Q1,2024,Europe,Core Platform,Mid-Market,30866,136,11,3,144,74,38,34,4.9
+2024-02,Q1,2024,Europe,Core Platform,SMB,39974,161,12,4,169,73,42,38,5.1
+2024-02,Q1,2024,Europe,Analytics Pro,Enterprise,28336,125,12,2,135,76,41,37,4.7
+2024-02,Q1,2024,Europe,Analytics Pro,Mid-Market,37444,150,13,3,160,75,45,40,4.9
+2024-02,Q1,2024,Europe,Analytics Pro,SMB,46552,175,14,5,184,74,49,44,5.1
+2024-02,Q1,2024,Asia-Pacific,Core Platform,Enterprise,25300,129,11,2,138,76,39,35,4.85
+2024-02,Q1,2024,Asia-Pacific,Core Platform,Mid-Market,34408,154,12,3,163,75,43,39,5.05
+2024-02,Q1,2024,Asia-Pacific,Core Platform,SMB,43516,179,13,5,187,74,47,42,5.25
+2024-02,Q1,2024,Asia-Pacific,Analytics Pro,Enterprise,31878,143,13,3,153,77,46,41,4.85
+2024-02,Q1,2024,Asia-Pacific,Analytics Pro,Mid-Market,40986,168,14,4,178,76,50,45,5.05
+2024-02,Q1,2024,Asia-Pacific,Analytics Pro,SMB,50094,193,15,5,203,75,54,49,5.25
+2024-03,Q1,2024,North America,Core Platform,Enterprise,18432,96,10,2,104,74,30,28,4.3
+2024-03,Q1,2024,North America,Core Platform,Mid-Market,27648,121,11,3,129,73,34,31,4.5
+2024-03,Q1,2024,North America,Core Platform,SMB,36864,146,12,4,154,72,38,35,4.7
+2024-03,Q1,2024,North America,Analytics Pro,Enterprise,25088,110,12,2,120,75,37,34,4.3
+2024-03,Q1,2024,North America,Analytics Pro,Mid-Market,34304,135,13,3,145,74,41,38,4.5
+2024-03,Q1,2024,North America,Analytics Pro,SMB,43520,160,14,4,170,73,45,41,4.7
+2024-03,Q1,2024,Europe,Core Platform,Enterprise,22016,114,11,2,123,75,35,32,4.45
+2024-03,Q1,2024,Europe,Core Platform,Mid-Market,31232,139,12,3,148,74,39,36,4.65
+2024-03,Q1,2024,Europe,Core Platform,SMB,40448,164,13,4,173,73,43,40,4.85
+2024-03,Q1,2024,Europe,Analytics Pro,Enterprise,28672,128,13,2,139,76,42,39,4.45
+2024-03,Q1,2024,Europe,Analytics Pro,Mid-Market,37888,153,14,3,164,75,46,42,4.65
+2024-03,Q1,2024,Europe,Analytics Pro,SMB,47104,178,15,5,188,74,50,46,4.85
+2024-03,Q1,2024,Asia-Pacific,Core Platform,Enterprise,25600,132,12,2,142,76,40,37,4.6
+2024-03,Q1,2024,Asia-Pacific,Core Platform,Mid-Market,34816,157,13,3,167,75,44,40,4.8
+2024-03,Q1,2024,Asia-Pacific,Core Platform,SMB,44032,182,14,5,191,74,48,44,5.0
+2024-03,Q1,2024,Asia-Pacific,Analytics Pro,Enterprise,32256,146,14,3,157,77,47,43,4.6
+2024-03,Q1,2024,Asia-Pacific,Analytics Pro,Mid-Market,41472,171,15,4,182,76,51,47,4.8
+2024-03,Q1,2024,Asia-Pacific,Analytics Pro,SMB,50688,196,16,5,207,75,55,51,5.0
+2024-04,Q2,2024,North America,Core Platform,Enterprise,18648,99,11,2,108,74,31,27,4.05
+2024-04,Q2,2024,North America,Core Platform,Mid-Market,27972,124,12,3,133,73,35,31,4.25
+2024-04,Q2,2024,North America,Core Platform,SMB,37296,149,13,4,158,72,39,34,4.45
+2024-04,Q2,2024,North America,Analytics Pro,Enterprise,25382,113,13,2,124,75,38,33,4.05
+2024-04,Q2,2024,North America,Analytics Pro,Mid-Market,34706,138,14,3,149,74,42,37,4.25
+2024-04,Q2,2024,North America,Analytics Pro,SMB,44030,163,15,4,174,73,46,40,4.45
+2024-04,Q2,2024,Europe,Core Platform,Enterprise,22274,117,12,2,127,75,36,32,4.2
+2024-04,Q2,2024,Europe,Core Platform,Mid-Market,31598,142,13,3,152,74,40,35,4.4
+2024-04,Q2,2024,Europe,Core Platform,SMB,40922,167,14,4,177,73,44,39,4.6
+2024-04,Q2,2024,Europe,Analytics Pro,Enterprise,29008,131,14,2,143,76,43,38,4.2
+2024-04,Q2,2024,Europe,Analytics Pro,Mid-Market,38332,156,15,3,168,75,47,41,4.4
+2024-04,Q2,2024,Europe,Analytics Pro,SMB,47656,181,16,5,192,74,51,45,4.6
+2024-04,Q2,2024,Asia-Pacific,Core Platform,Enterprise,25900,135,13,2,146,76,41,36,4.35
+2024-04,Q2,2024,Asia-Pacific,Core Platform,Mid-Market,35224,160,14,4,170,75,45,40,4.55
+2024-04,Q2,2024,Asia-Pacific,Core Platform,SMB,44548,185,15,5,195,74,49,43,4.75
+2024-04,Q2,2024,Asia-Pacific,Analytics Pro,Enterprise,32634,149,15,3,161,77,48,42,4.35
+2024-04,Q2,2024,Asia-Pacific,Analytics Pro,Mid-Market,41958,174,16,4,186,76,52,46,4.55
+2024-04,Q2,2024,Asia-Pacific,Analytics Pro,SMB,51282,199,17,5,211,75,56,49,4.75
+2024-05,Q2,2024,North America,Core Platform,Enterprise,18864,102,8,2,108,74,32,29,4.8
+2024-05,Q2,2024,North America,Core Platform,Mid-Market,28296,127,9,3,133,73,36,32,5.0
+2024-05,Q2,2024,North America,Core Platform,SMB,37728,152,10,4,158,72,40,36,5.2
+2024-05,Q2,2024,North America,Analytics Pro,Enterprise,25676,116,10,2,124,75,39,35,4.8
+2024-05,Q2,2024,North America,Analytics Pro,Mid-Market,35108,141,11,3,149,74,43,39,5.0
+2024-05,Q2,2024,North America,Analytics Pro,SMB,44540,166,12,4,174,73,47,42,5.2
+2024-05,Q2,2024,Europe,Core Platform,Enterprise,22532,120,9,2,127,75,37,33,4.95
+2024-05,Q2,2024,Europe,Core Platform,Mid-Market,31964,145,10,3,152,74,41,37,5.15
+2024-05,Q2,2024,Europe,Core Platform,SMB,41396,170,11,4,177,73,45,40,5.35
+2024-05,Q2,2024,Europe,Analytics Pro,Enterprise,29344,134,11,2,143,76,44,40,4.95
+2024-05,Q2,2024,Europe,Analytics Pro,Mid-Market,38776,159,12,3,168,75,48,43,5.15
+2024-05,Q2,2024,Europe,Analytics Pro,SMB,48208,184,13,5,192,74,52,47,5.35
+2024-05,Q2,2024,Asia-Pacific,Core Platform,Enterprise,26200,138,10,2,146,76,42,38,5.1
+2024-05,Q2,2024,Asia-Pacific,Core Platform,Mid-Market,35632,163,11,4,170,75,46,41,5.3
+2024-05,Q2,2024,Asia-Pacific,Core Platform,SMB,45064,188,12,5,195,74,50,45,5.5
+2024-05,Q2,2024,Asia-Pacific,Analytics Pro,Enterprise,33012,152,12,3,161,77,49,44,5.1
+2024-05,Q2,2024,Asia-Pacific,Analytics Pro,Mid-Market,42444,177,13,4,186,76,53,48,5.3
+2024-05,Q2,2024,Asia-Pacific,Analytics Pro,SMB,51876,202,14,5,211,75,57,51,5.5
+2024-06,Q2,2024,North America,Core Platform,Enterprise,19080,105,9,2,112,74,28,26,4.55
+2024-06,Q2,2024,North America,Core Platform,Mid-Market,28620,130,10,3,137,73,32,29,4.75
+2024-06,Q2,2024,North America,Core Platform,SMB,38160,155,11,4,162,72,36,33,4.95
+2024-06,Q2,2024,North America,Analytics Pro,Enterprise,25970,119,11,2,128,75,35,32,4.55
+2024-06,Q2,2024,North America,Analytics Pro,Mid-Market,35510,144,12,3,153,74,39,36,4.75
+2024-06,Q2,2024,North America,Analytics Pro,SMB,45050,169,13,4,178,73,43,40,4.95
+2024-06,Q2,2024,Europe,Core Platform,Enterprise,22790,123,10,2,131,75,33,30,4.7
+2024-06,Q2,2024,Europe,Core Platform,Mid-Market,32330,148,11,3,156,74,37,34,4.9
+2024-06,Q2,2024,Europe,Core Platform,SMB,41870,173,12,4,181,73,41,38,5.1
+2024-06,Q2,2024,Europe,Analytics Pro,Enterprise,29680,137,12,2,147,76,40,37,4.7
+2024-06,Q2,2024,Europe,Analytics Pro,Mid-Market,39220,162,13,4,171,75,44,40,4.9
+2024-06,Q2,2024,Europe,Analytics Pro,SMB,48760,187,14,5,196,74,48,44,5.1
+2024-06,Q2,2024,Asia-Pacific,Core Platform,Enterprise,26500,141,11,3,149,76,38,35,4.85
+2024-06,Q2,2024,Asia-Pacific,Core Platform,Mid-Market,36040,166,12,4,174,75,42,39,5.05
+2024-06,Q2,2024,Asia-Pacific,Core Platform,SMB,45580,191,13,5,199,74,46,42,5.25
+2024-06,Q2,2024,Asia-Pacific,Analytics Pro,Enterprise,33390,155,13,3,165,77,45,41,4.85
+2024-06,Q2,2024,Asia-Pacific,Analytics Pro,Mid-Market,42930,180,14,4,190,76,49,45,5.05
+2024-06,Q2,2024,Asia-Pacific,Analytics Pro,SMB,52470,205,15,5,215,75,53,49,5.25
+2024-07,Q3,2024,North America,Core Platform,Enterprise,19296,108,10,2,116,75,29,26,4.3
+2024-07,Q3,2024,North America,Core Platform,Mid-Market,28944,133,11,3,141,74,33,29,4.5
+2024-07,Q3,2024,North America,Core Platform,SMB,38592,158,12,4,166,73,37,33,4.7
+2024-07,Q3,2024,North America,Analytics Pro,Enterprise,26264,122,12,2,132,76,36,32,4.3
+2024-07,Q3,2024,North America,Analytics Pro,Mid-Market,35912,147,13,3,157,75,40,35,4.5
+2024-07,Q3,2024,North America,Analytics Pro,SMB,45560,172,14,4,182,74,44,39,4.7
+2024-07,Q3,2024,Europe,Core Platform,Enterprise,23048,126,11,2,135,76,34,30,4.45
+2024-07,Q3,2024,Europe,Core Platform,Mid-Market,32696,151,12,3,160,75,38,33,4.65
+2024-07,Q3,2024,Europe,Core Platform,SMB,42344,176,13,5,184,74,42,37,4.85
+2024-07,Q3,2024,Europe,Analytics Pro,Enterprise,30016,140,13,3,150,77,41,36,4.45
+2024-07,Q3,2024,Europe,Analytics Pro,Mid-Market,39664,165,14,4,175,76,45,40,4.65
+2024-07,Q3,2024,Europe,Analytics Pro,SMB,49312,190,15,5,200,75,49,43,4.85
+2024-07,Q3,2024,Asia-Pacific,Core Platform,Enterprise,26800,144,12,3,153,77,39,34,4.6
+2024-07,Q3,2024,Asia-Pacific,Core Platform,Mid-Market,36448,169,13,4,178,76,43,38,4.8
+2024-07,Q3,2024,Asia-Pacific,Core Platform,SMB,46096,194,14,5,203,75,47,41,5.0
+2024-07,Q3,2024,Asia-Pacific,Analytics Pro,Enterprise,33768,158,14,3,169,78,46,40,4.6
+2024-07,Q3,2024,Asia-Pacific,Analytics Pro,Mid-Market,43416,183,15,4,194,77,50,44,4.8
+2024-07,Q3,2024,Asia-Pacific,Analytics Pro,SMB,53064,208,16,5,219,76,54,48,5.0
+2024-08,Q3,2024,North America,Core Platform,Enterprise,19512,111,11,2,120,75,30,27,4.05
+2024-08,Q3,2024,North America,Core Platform,Mid-Market,29268,136,12,3,145,74,34,31,4.25
+2024-08,Q3,2024,North America,Core Platform,SMB,39024,161,13,4,170,73,38,34,4.45
+2024-08,Q3,2024,North America,Analytics Pro,Enterprise,26558,125,13,2,136,76,37,33,4.05
+2024-08,Q3,2024,North America,Analytics Pro,Mid-Market,36314,150,14,3,161,75,41,37,4.25
+2024-08,Q3,2024,North America,Analytics Pro,SMB,46070,175,15,5,185,74,45,40,4.45
+2024-08,Q3,2024,Europe,Core Platform,Enterprise,23306,129,12,2,139,76,35,32,4.2
+2024-08,Q3,2024,Europe,Core Platform,Mid-Market,33062,154,13,3,164,75,39,35,4.4
+2024-08,Q3,2024,Europe,Core Platform,SMB,42818,179,14,5,188,74,43,39,4.6
+2024-08,Q3,2024,Europe,Analytics Pro,Enterprise,30352,143,14,3,154,77,42,38,4.2
+2024-08,Q3,2024,Europe,Analytics Pro,Mid-Market,40108,168,15,4,179,76,46,41,4.4
+2024-08,Q3,2024,Europe,Analytics Pro,SMB,49864,193,16,5,204,75,50,45,4.6
+2024-08,Q3,2024,Asia-Pacific,Core Platform,Enterprise,27100,147,13,3,157,77,40,36,4.35
+2024-08,Q3,2024,Asia-Pacific,Core Platform,Mid-Market,36856,172,14,4,182,76,44,40,4.55
+2024-08,Q3,2024,Asia-Pacific,Core Platform,SMB,46612,197,15,5,207,75,48,43,4.75
+2024-08,Q3,2024,Asia-Pacific,Analytics Pro,Enterprise,34146,161,15,3,173,78,47,42,4.35
+2024-08,Q3,2024,Asia-Pacific,Analytics Pro,Mid-Market,43902,186,16,4,198,77,51,46,4.55
+2024-08,Q3,2024,Asia-Pacific,Analytics Pro,SMB,53658,211,17,5,223,76,55,50,4.75
+2024-09,Q3,2024,North America,Core Platform,Enterprise,19728,114,8,2,120,75,31,29,4.8
+2024-09,Q3,2024,North America,Core Platform,Mid-Market,29592,139,9,3,145,74,35,32,5.0
+2024-09,Q3,2024,North America,Core Platform,SMB,39456,164,10,4,170,73,39,36,5.2
+2024-09,Q3,2024,North America,Analytics Pro,Enterprise,26852,128,10,2,136,76,38,35,4.8
+2024-09,Q3,2024,North America,Analytics Pro,Mid-Market,36716,153,11,3,161,75,42,39,5.0
+2024-09,Q3,2024,North America,Analytics Pro,SMB,46580,178,12,5,185,74,46,42,5.2
+2024-09,Q3,2024,Europe,Core Platform,Enterprise,23564,132,9,2,139,76,36,33,4.95
+2024-09,Q3,2024,Europe,Core Platform,Mid-Market,33428,157,10,3,164,75,40,37,5.15
+2024-09,Q3,2024,Europe,Core Platform,SMB,43292,182,11,5,188,74,44,40,5.35
+2024-09,Q3,2024,Europe,Analytics Pro,Enterprise,30688,146,11,3,154,77,43,40,4.95
+2024-09,Q3,2024,Europe,Analytics Pro,Mid-Market,40552,171,12,4,179,76,47,43,5.15
+2024-09,Q3,2024,Europe,Analytics Pro,SMB,50416,196,13,5,204,75,51,47,5.35
+2024-09,Q3,2024,Asia-Pacific,Core Platform,Enterprise,27400,150,10,3,157,77,41,38,5.1
+2024-09,Q3,2024,Asia-Pacific,Core Platform,Mid-Market,37264,175,11,4,182,76,45,41,5.3
+2024-09,Q3,2024,Asia-Pacific,Core Platform,SMB,47128,200,12,5,207,75,49,45,5.5
+2024-09,Q3,2024,Asia-Pacific,Analytics Pro,Enterprise,34524,164,12,3,173,78,48,44,5.1
+2024-09,Q3,2024,Asia-Pacific,Analytics Pro,Mid-Market,44388,189,13,4,198,77,52,48,5.3
+2024-09,Q3,2024,Asia-Pacific,Analytics Pro,SMB,54252,214,14,6,222,76,56,52,5.5
+2024-10,Q4,2024,North America,Core Platform,Enterprise,19944,117,9,2,124,75,32,28,4.55
+2024-10,Q4,2024,North America,Core Platform,Mid-Market,29916,142,10,3,149,74,36,32,4.75
+2024-10,Q4,2024,North America,Core Platform,SMB,39888,167,11,4,174,73,40,35,4.95
+2024-10,Q4,2024,North America,Analytics Pro,Enterprise,27146,131,11,2,140,76,39,34,4.55
+2024-10,Q4,2024,North America,Analytics Pro,Mid-Market,37118,156,12,3,165,75,43,38,4.75
+2024-10,Q4,2024,North America,Analytics Pro,SMB,47090,181,13,5,189,74,47,41,4.95
+2024-10,Q4,2024,Europe,Core Platform,Enterprise,23822,135,10,2,143,76,37,33,4.7
+2024-10,Q4,2024,Europe,Core Platform,Mid-Market,33794,160,11,4,167,75,41,36,4.9
+2024-10,Q4,2024,Europe,Core Platform,SMB,43766,185,12,5,192,74,45,40,5.1
+2024-10,Q4,2024,Europe,Analytics Pro,Enterprise,31024,149,12,3,158,77,44,39,4.7
+2024-10,Q4,2024,Europe,Analytics Pro,Mid-Market,40996,174,13,4,183,76,48,42,4.9
+2024-10,Q4,2024,Europe,Analytics Pro,SMB,50968,199,14,5,208,75,52,46,5.1
+2024-10,Q4,2024,Asia-Pacific,Core Platform,Enterprise,27700,153,11,3,161,77,42,37,4.85
+2024-10,Q4,2024,Asia-Pacific,Core Platform,Mid-Market,37672,178,12,4,186,76,46,40,5.05
+2024-10,Q4,2024,Asia-Pacific,Core Platform,SMB,47644,203,13,5,211,75,50,44,5.25
+2024-10,Q4,2024,Asia-Pacific,Analytics Pro,Enterprise,34902,167,13,3,177,78,49,43,4.85
+2024-10,Q4,2024,Asia-Pacific,Analytics Pro,Mid-Market,44874,192,14,4,202,77,53,47,5.05
+2024-10,Q4,2024,Asia-Pacific,Analytics Pro,SMB,54846,217,15,6,226,76,57,50,5.25
+2024-11,Q4,2024,North America,Core Platform,Enterprise,20160,120,10,2,128,75,28,25,4.3
+2024-11,Q4,2024,North America,Core Platform,Mid-Market,30240,145,11,3,153,74,32,29,4.5
+2024-11,Q4,2024,North America,Core Platform,SMB,40320,170,12,4,178,73,36,32,4.7
+2024-11,Q4,2024,North America,Analytics Pro,Enterprise,27440,134,12,2,144,76,35,32,4.3
+2024-11,Q4,2024,North America,Analytics Pro,Mid-Market,37520,159,13,3,169,75,39,35,4.5
+2024-11,Q4,2024,North America,Analytics Pro,SMB,47600,184,14,5,193,74,43,39,4.7
+2024-11,Q4,2024,Europe,Core Platform,Enterprise,24080,138,11,2,147,76,33,30,4.45
+2024-11,Q4,2024,Europe,Core Platform,Mid-Market,34160,163,12,4,171,75,37,33,4.65
+2024-11,Q4,2024,Europe,Core Platform,SMB,44240,188,13,5,196,74,41,37,4.85
+2024-11,Q4,2024,Europe,Analytics Pro,Enterprise,31360,152,13,3,162,77,40,36,4.45
+2024-11,Q4,2024,Europe,Analytics Pro,Mid-Market,41440,177,14,4,187,76,44,40,4.65
+2024-11,Q4,2024,Europe,Analytics Pro,SMB,51520,202,15,5,212,75,48,43,4.85
+2024-11,Q4,2024,Asia-Pacific,Core Platform,Enterprise,28000,156,12,3,165,77,38,34,4.6
+2024-11,Q4,2024,Asia-Pacific,Core Platform,Mid-Market,38080,181,13,4,190,76,42,38,4.8
+2024-11,Q4,2024,Asia-Pacific,Core Platform,SMB,48160,206,14,5,215,75,46,41,5.0
+2024-11,Q4,2024,Asia-Pacific,Analytics Pro,Enterprise,35280,170,14,3,181,78,45,40,4.6
+2024-11,Q4,2024,Asia-Pacific,Analytics Pro,Mid-Market,45360,195,15,4,206,77,49,44,4.8
+2024-11,Q4,2024,Asia-Pacific,Analytics Pro,SMB,55440,220,16,6,230,76,53,48,5.0
+2024-12,Q4,2024,North America,Core Platform,Enterprise,20376,123,11,2,132,75,29,27,4.05
+2024-12,Q4,2024,North America,Core Platform,Mid-Market,30564,148,12,3,157,74,33,30,4.25
+2024-12,Q4,2024,North America,Core Platform,SMB,40752,173,13,4,182,73,37,34,4.45
+2024-12,Q4,2024,North America,Analytics Pro,Enterprise,27734,137,13,2,148,76,36,33,4.05
+2024-12,Q4,2024,North America,Analytics Pro,Mid-Market,37922,162,14,4,172,75,40,37,4.25
+2024-12,Q4,2024,North America,Analytics Pro,SMB,48110,187,15,5,197,74,44,40,4.45
+2024-12,Q4,2024,Europe,Core Platform,Enterprise,24338,141,12,3,150,76,34,31,4.2
+2024-12,Q4,2024,Europe,Core Platform,Mid-Market,34526,166,13,4,175,75,38,35,4.4
+2024-12,Q4,2024,Europe,Core Platform,SMB,44714,191,14,5,200,74,42,39,4.6
+2024-12,Q4,2024,Europe,Analytics Pro,Enterprise,31696,155,14,3,166,77,41,38,4.2
+2024-12,Q4,2024,Europe,Analytics Pro,Mid-Market,41884,180,15,4,191,76,45,41,4.4
+2024-12,Q4,2024,Europe,Analytics Pro,SMB,52072,205,16,5,216,75,49,45,4.6
+2024-12,Q4,2024,Asia-Pacific,Core Platform,Enterprise,28300,159,13,3,169,77,39,36,4.35
+2024-12,Q4,2024,Asia-Pacific,Core Platform,Mid-Market,38488,184,14,4,194,76,43,40,4.55
+2024-12,Q4,2024,Asia-Pacific,Core Platform,SMB,48676,209,15,5,219,75,47,43,4.75
+2024-12,Q4,2024,Asia-Pacific,Analytics Pro,Enterprise,35658,173,15,3,185,78,46,42,4.35
+2024-12,Q4,2024,Asia-Pacific,Analytics Pro,Mid-Market,45846,198,16,4,210,77,50,46,4.55
+2024-12,Q4,2024,Asia-Pacific,Analytics Pro,SMB,56034,223,17,6,234,76,54,50,4.75
+2025-01,Q1,2025,North America,Core Platform,Enterprise,20592,126,8,2,132,76,30,26,4.8
+2025-01,Q1,2025,North America,Core Platform,Mid-Market,30888,151,9,3,157,75,34,30,5.0
+2025-01,Q1,2025,North America,Core Platform,SMB,41184,176,10,5,181,74,38,33,5.2
+2025-01,Q1,2025,North America,Analytics Pro,Enterprise,28028,140,10,3,147,77,37,33,4.8
+2025-01,Q1,2025,North America,Analytics Pro,Mid-Market,38324,165,11,4,172,76,41,36,5.0
+2025-01,Q1,2025,North America,Analytics Pro,SMB,48620,190,12,5,197,75,45,40,5.2
+2025-01,Q1,2025,Europe,Core Platform,Enterprise,24596,144,9,3,150,77,35,31,4.95
+2025-01,Q1,2025,Europe,Core Platform,Mid-Market,34892,169,10,4,175,76,39,34,5.15
+2025-01,Q1,2025,Europe,Core Platform,SMB,45188,194,11,5,200,75,43,38,5.35
+2025-01,Q1,2025,Europe,Analytics Pro,Enterprise,32032,158,11,3,166,78,42,37,4.95
+2025-01,Q1,2025,Europe,Analytics Pro,Mid-Market,42328,183,12,4,191,77,46,40,5.15
+2025-01,Q1,2025,Europe,Analytics Pro,SMB,52624,208,13,5,216,76,50,44,5.35
+2025-01,Q1,2025,Asia-Pacific,Core Platform,Enterprise,28600,162,10,3,169,78,40,35,5.1
+2025-01,Q1,2025,Asia-Pacific,Core Platform,Mid-Market,38896,187,11,4,194,77,44,39,5.3
+2025-01,Q1,2025,Asia-Pacific,Core Platform,SMB,49192,212,12,6,218,76,48,42,5.5
+2025-01,Q1,2025,Asia-Pacific,Analytics Pro,Enterprise,36036,176,12,3,185,79,47,41,5.1
+2025-01,Q1,2025,Asia-Pacific,Analytics Pro,Mid-Market,46332,201,13,4,210,78,51,45,5.3
+2025-01,Q1,2025,Asia-Pacific,Analytics Pro,SMB,56628,226,14,6,234,77,55,48,5.5
+2025-02,Q1,2025,North America,Core Platform,Enterprise,20808,129,9,2,136,76,31,28,4.55
+2025-02,Q1,2025,North America,Core Platform,Mid-Market,31212,154,10,3,161,75,35,32,4.75
+2025-02,Q1,2025,North America,Core Platform,SMB,41616,179,11,5,185,74,39,35,4.95
+2025-02,Q1,2025,North America,Analytics Pro,Enterprise,28322,143,11,3,151,77,38,34,4.55
+2025-02,Q1,2025,North America,Analytics Pro,Mid-Market,38726,168,12,4,176,76,42,38,4.75
+2025-02,Q1,2025,North America,Analytics Pro,SMB,49130,193,13,5,201,75,46,41,4.95
+2025-02,Q1,2025,Europe,Core Platform,Enterprise,24854,147,10,3,154,77,36,32,4.7
+2025-02,Q1,2025,Europe,Core Platform,Mid-Market,35258,172,11,4,179,76,40,36,4.9
+2025-02,Q1,2025,Europe,Core Platform,SMB,45662,197,12,5,204,75,44,40,5.1
+2025-02,Q1,2025,Europe,Analytics Pro,Enterprise,32368,161,12,3,170,78,43,39,4.7
+2025-02,Q1,2025,Europe,Analytics Pro,Mid-Market,42772,186,13,4,195,77,47,42,4.9
+2025-02,Q1,2025,Europe,Analytics Pro,SMB,53176,211,14,5,220,76,51,46,5.1
+2025-02,Q1,2025,Asia-Pacific,Core Platform,Enterprise,28900,165,11,3,173,78,41,37,4.85
+2025-02,Q1,2025,Asia-Pacific,Core Platform,Mid-Market,39304,190,12,4,198,77,45,40,5.05
+2025-02,Q1,2025,Asia-Pacific,Core Platform,SMB,49708,215,13,6,222,76,49,44,5.25
+2025-02,Q1,2025,Asia-Pacific,Analytics Pro,Enterprise,36414,179,13,3,189,79,48,43,4.85
+2025-02,Q1,2025,Asia-Pacific,Analytics Pro,Mid-Market,46818,204,14,4,214,78,52,47,5.05
+2025-02,Q1,2025,Asia-Pacific,Analytics Pro,SMB,57222,229,15,6,238,77,56,50,5.25
+2025-03,Q1,2025,North America,Core Platform,Enterprise,21024,132,10,2,140,76,32,29,4.3
+2025-03,Q1,2025,North America,Core Platform,Mid-Market,31536,157,11,3,165,75,36,33,4.5
+2025-03,Q1,2025,North America,Core Platform,SMB,42048,182,12,5,189,74,40,37,4.7
+2025-03,Q1,2025,North America,Analytics Pro,Enterprise,28616,146,12,3,155,77,39,36,4.3
+2025-03,Q1,2025,North America,Analytics Pro,Mid-Market,39128,171,13,4,180,76,43,40,4.5
+2025-03,Q1,2025,North America,Analytics Pro,SMB,49640,196,14,5,205,75,47,43,4.7
+2025-03,Q1,2025,Europe,Core Platform,Enterprise,25112,150,11,3,158,77,37,34,4.45
+2025-03,Q1,2025,Europe,Core Platform,Mid-Market,35624,175,12,4,183,76,41,38,4.65
+2025-03,Q1,2025,Europe,Core Platform,SMB,46136,200,13,5,208,75,45,41,4.85
+2025-03,Q1,2025,Europe,Analytics Pro,Enterprise,32704,164,13,3,174,78,44,40,4.45
+2025-03,Q1,2025,Europe,Analytics Pro,Mid-Market,43216,189,14,4,199,77,48,44,4.65
+2025-03,Q1,2025,Europe,Analytics Pro,SMB,53728,214,15,6,223,76,52,48,4.85
+2025-03,Q1,2025,Asia-Pacific,Core Platform,Enterprise,29200,168,12,3,177,78,42,39,4.6
+2025-03,Q1,2025,Asia-Pacific,Core Platform,Mid-Market,39712,193,13,4,202,77,46,42,4.8
+2025-03,Q1,2025,Asia-Pacific,Core Platform,SMB,50224,218,14,6,226,76,50,46,5.0
+2025-03,Q1,2025,Asia-Pacific,Analytics Pro,Enterprise,36792,182,14,3,193,79,49,45,4.6
+2025-03,Q1,2025,Asia-Pacific,Analytics Pro,Mid-Market,47304,207,15,5,217,78,53,49,4.8
+2025-03,Q1,2025,Asia-Pacific,Analytics Pro,SMB,57816,232,16,6,242,77,57,52,5.0
+2025-04,Q2,2025,North America,Core Platform,Enterprise,21240,135,11,2,144,76,28,25,4.05
+2025-04,Q2,2025,North America,Core Platform,Mid-Market,31860,160,12,4,168,75,32,28,4.25
+2025-04,Q2,2025,North America,Core Platform,SMB,42480,185,13,5,193,74,36,32,4.45
+2025-04,Q2,2025,North America,Analytics Pro,Enterprise,28910,149,13,3,159,77,35,31,4.05
+2025-04,Q2,2025,North America,Analytics Pro,Mid-Market,39530,174,14,4,184,76,39,34,4.25
+2025-04,Q2,2025,North America,Analytics Pro,SMB,50150,199,15,5,209,75,43,38,4.45
+2025-04,Q2,2025,Europe,Core Platform,Enterprise,25370,153,12,3,162,77,33,29,4.2
+2025-04,Q2,2025,Europe,Core Platform,Mid-Market,35990,178,13,4,187,76,37,33,4.4
+2025-04,Q2,2025,Europe,Core Platform,SMB,46610,203,14,5,212,75,41,36,4.6
+2025-04,Q2,2025,Europe,Analytics Pro,Enterprise,33040,167,14,3,178,78,40,35,4.2
+2025-04,Q2,2025,Europe,Analytics Pro,Mid-Market,43660,192,15,4,203,77,44,39,4.4
+2025-04,Q2,2025,Europe,Analytics Pro,SMB,54280,217,16,6,227,76,48,42,4.6
+2025-04,Q2,2025,Asia-Pacific,Core Platform,Enterprise,29500,171,13,3,181,78,38,33,4.35
+2025-04,Q2,2025,Asia-Pacific,Core Platform,Mid-Market,40120,196,14,4,206,77,42,37,4.55
+2025-04,Q2,2025,Asia-Pacific,Core Platform,SMB,50740,221,15,6,230,76,46,40,4.75
+2025-04,Q2,2025,Asia-Pacific,Analytics Pro,Enterprise,37170,185,15,3,197,79,45,40,4.35
+2025-04,Q2,2025,Asia-Pacific,Analytics Pro,Mid-Market,47790,210,16,5,221,78,49,43,4.55
+2025-04,Q2,2025,Asia-Pacific,Analytics Pro,SMB,58410,235,17,6,246,77,53,47,4.75
+2025-05,Q2,2025,North America,Core Platform,Enterprise,21456,138,8,2,144,76,29,26,4.8
+2025-05,Q2,2025,North America,Core Platform,Mid-Market,32184,163,9,4,168,75,33,30,5.0
+2025-05,Q2,2025,North America,Core Platform,SMB,42912,188,10,5,193,74,37,33,5.2
+2025-05,Q2,2025,North America,Analytics Pro,Enterprise,29204,152,10,3,159,77,36,32,4.8
+2025-05,Q2,2025,North America,Analytics Pro,Mid-Market,39932,177,11,4,184,76,40,36,5.0
+2025-05,Q2,2025,North America,Analytics Pro,SMB,50660,202,12,5,209,75,44,40,5.2
+2025-05,Q2,2025,Europe,Core Platform,Enterprise,25628,156,9,3,162,77,34,31,4.95
+2025-05,Q2,2025,Europe,Core Platform,Mid-Market,36356,181,10,4,187,76,38,34,5.15
+2025-05,Q2,2025,Europe,Core Platform,SMB,47084,206,11,5,212,75,42,38,5.35
+2025-05,Q2,2025,Europe,Analytics Pro,Enterprise,33376,170,11,3,178,78,41,37,4.95
+2025-05,Q2,2025,Europe,Analytics Pro,Mid-Market,44104,195,12,4,203,77,45,40,5.15
+2025-05,Q2,2025,Europe,Analytics Pro,SMB,54832,220,13,6,227,76,49,44,5.35
+2025-05,Q2,2025,Asia-Pacific,Core Platform,Enterprise,29800,174,10,3,181,78,39,35,5.1
+2025-05,Q2,2025,Asia-Pacific,Core Platform,Mid-Market,40528,199,11,4,206,77,43,39,5.3
+2025-05,Q2,2025,Asia-Pacific,Core Platform,SMB,51256,224,12,6,230,76,47,42,5.5
+2025-05,Q2,2025,Asia-Pacific,Analytics Pro,Enterprise,37548,188,12,3,197,79,46,41,5.1
+2025-05,Q2,2025,Asia-Pacific,Analytics Pro,Mid-Market,48276,213,13,5,221,78,50,45,5.3
+2025-05,Q2,2025,Asia-Pacific,Analytics Pro,SMB,59004,238,14,6,246,77,54,49,5.5
+2025-06,Q2,2025,North America,Core Platform,Enterprise,21672,141,9,3,147,76,30,28,4.55
+2025-06,Q2,2025,North America,Core Platform,Mid-Market,32508,166,10,4,172,75,34,31,4.75
+2025-06,Q2,2025,North America,Core Platform,SMB,43344,191,11,5,197,74,38,35,4.95
+2025-06,Q2,2025,North America,Analytics Pro,Enterprise,29498,155,11,3,163,77,37,34,4.55
+2025-06,Q2,2025,North America,Analytics Pro,Mid-Market,40334,180,12,4,188,76,41,38,4.75
+2025-06,Q2,2025,North America,Analytics Pro,SMB,51170,205,13,5,213,75,45,41,4.95
+2025-06,Q2,2025,Europe,Core Platform,Enterprise,25886,159,10,3,166,77,35,32,4.7
+2025-06,Q2,2025,Europe,Core Platform,Mid-Market,36722,184,11,4,191,76,39,36,4.9
+2025-06,Q2,2025,Europe,Core Platform,SMB,47558,209,12,5,216,75,43,40,5.1
+2025-06,Q2,2025,Europe,Analytics Pro,Enterprise,33712,173,12,3,182,78,42,39,4.7
+2025-06,Q2,2025,Europe,Analytics Pro,Mid-Market,44548,198,13,4,207,77,46,42,4.9
+2025-06,Q2,2025,Europe,Analytics Pro,SMB,55384,223,14,6,231,76,50,46,5.1
+2025-06,Q2,2025,Asia-Pacific,Core Platform,Enterprise,30100,177,11,3,185,78,40,37,4.85
+2025-06,Q2,2025,Asia-Pacific,Core Platform,Mid-Market,40936,202,12,4,210,77,44,40,5.05
+2025-06,Q2,2025,Asia-Pacific,Core Platform,SMB,51772,227,13,6,234,76,48,44,5.25
+2025-06,Q2,2025,Asia-Pacific,Analytics Pro,Enterprise,37926,191,13,3,201,79,47,43,4.85
+2025-06,Q2,2025,Asia-Pacific,Analytics Pro,Mid-Market,48762,216,14,5,225,78,51,47,5.05
+2025-06,Q2,2025,Asia-Pacific,Analytics Pro,SMB,59598,241,15,6,250,77,55,51,5.25
+2025-07,Q3,2025,North America,Core Platform,Enterprise,21888,144,10,3,151,77,31,27,4.3
+2025-07,Q3,2025,North America,Core Platform,Mid-Market,32832,169,11,4,176,76,35,31,4.5
+2025-07,Q3,2025,North America,Core Platform,SMB,43776,194,12,5,201,75,39,34,4.7
+2025-07,Q3,2025,North America,Analytics Pro,Enterprise,29792,158,12,3,167,78,38,33,4.3
+2025-07,Q3,2025,North America,Analytics Pro,Mid-Market,40736,183,13,4,192,77,42,37,4.5
+2025-07,Q3,2025,North America,Analytics Pro,SMB,51680,208,14,5,217,76,46,40,4.7
+2025-07,Q3,2025,Europe,Core Platform,Enterprise,26144,162,11,3,170,78,36,32,4.45
+2025-07,Q3,2025,Europe,Core Platform,Mid-Market,37088,187,12,4,195,77,40,35,4.65
+2025-07,Q3,2025,Europe,Core Platform,SMB,48032,212,13,6,219,76,44,39,4.85
+2025-07,Q3,2025,Europe,Analytics Pro,Enterprise,34048,176,13,3,186,79,43,38,4.45
+2025-07,Q3,2025,Europe,Analytics Pro,Mid-Market,44992,201,14,4,211,78,47,41,4.65
+2025-07,Q3,2025,Europe,Analytics Pro,SMB,55936,226,15,6,235,77,51,45,4.85
+2025-07,Q3,2025,Asia-Pacific,Core Platform,Enterprise,30400,180,12,3,189,79,41,36,4.6
+2025-07,Q3,2025,Asia-Pacific,Core Platform,Mid-Market,41344,205,13,5,213,78,45,40,4.8
+2025-07,Q3,2025,Asia-Pacific,Core Platform,SMB,52288,230,14,6,238,77,49,43,5.0
+2025-07,Q3,2025,Asia-Pacific,Analytics Pro,Enterprise,38304,194,14,3,205,80,48,42,4.6
+2025-07,Q3,2025,Asia-Pacific,Analytics Pro,Mid-Market,49248,219,15,5,229,79,52,46,4.8
+2025-07,Q3,2025,Asia-Pacific,Analytics Pro,SMB,60192,244,16,6,254,78,56,49,5.0
+2025-08,Q3,2025,North America,Core Platform,Enterprise,22104,147,11,3,155,77,32,29,4.05
+2025-08,Q3,2025,North America,Core Platform,Mid-Market,33156,172,12,4,180,76,36,32,4.25
+2025-08,Q3,2025,North America,Core Platform,SMB,44208,197,13,5,205,75,40,36,4.45
+2025-08,Q3,2025,North America,Analytics Pro,Enterprise,30086,161,13,3,171,78,39,35,4.05
+2025-08,Q3,2025,North America,Analytics Pro,Mid-Market,41138,186,14,4,196,77,43,39,4.25
+2025-08,Q3,2025,North America,Analytics Pro,SMB,52190,211,15,5,221,76,47,42,4.45
+2025-08,Q3,2025,Europe,Core Platform,Enterprise,26402,165,12,3,174,78,37,33,4.2
+2025-08,Q3,2025,Europe,Core Platform,Mid-Market,37454,190,13,4,199,77,41,37,4.4
+2025-08,Q3,2025,Europe,Core Platform,SMB,48506,215,14,6,223,76,45,40,4.6
+2025-08,Q3,2025,Europe,Analytics Pro,Enterprise,34384,179,14,3,190,79,44,40,4.2
+2025-08,Q3,2025,Europe,Analytics Pro,Mid-Market,45436,204,15,4,215,78,48,43,4.4
+2025-08,Q3,2025,Europe,Analytics Pro,SMB,56488,229,16,6,239,77,52,47,4.6
+2025-08,Q3,2025,Asia-Pacific,Core Platform,Enterprise,30700,183,13,3,193,79,42,38,4.35
+2025-08,Q3,2025,Asia-Pacific,Core Platform,Mid-Market,41752,208,14,5,217,78,46,41,4.55
+2025-08,Q3,2025,Asia-Pacific,Core Platform,SMB,52804,233,15,6,242,77,50,45,4.75
+2025-08,Q3,2025,Asia-Pacific,Analytics Pro,Enterprise,38682,197,15,4,208,80,49,44,4.35
+2025-08,Q3,2025,Asia-Pacific,Analytics Pro,Mid-Market,49734,222,16,5,233,79,53,48,4.55
+2025-08,Q3,2025,Asia-Pacific,Analytics Pro,SMB,60786,247,17,6,258,78,57,51,4.75
+2025-09,Q3,2025,North America,Core Platform,Enterprise,22320,150,8,3,155,77,28,26,4.8
+2025-09,Q3,2025,North America,Core Platform,Mid-Market,33480,175,9,4,180,76,32,29,5.0
+2025-09,Q3,2025,North America,Core Platform,SMB,44640,200,10,5,205,75,36,33,5.2
+2025-09,Q3,2025,North America,Analytics Pro,Enterprise,30380,164,10,3,171,78,35,32,4.8
+2025-09,Q3,2025,North America,Analytics Pro,Mid-Market,41540,189,11,4,196,77,39,36,5.0
+2025-09,Q3,2025,North America,Analytics Pro,SMB,52700,214,12,6,220,76,43,40,5.2
+2025-09,Q3,2025,Europe,Core Platform,Enterprise,26660,168,9,3,174,78,33,30,4.95
+2025-09,Q3,2025,Europe,Core Platform,Mid-Market,37820,193,10,4,199,77,37,34,5.15
+2025-09,Q3,2025,Europe,Core Platform,SMB,48980,218,11,6,223,76,41,38,5.35
+2025-09,Q3,2025,Europe,Analytics Pro,Enterprise,34720,182,11,3,190,79,40,37,4.95
+2025-09,Q3,2025,Europe,Analytics Pro,Mid-Market,45880,207,12,5,214,78,44,40,5.15
+2025-09,Q3,2025,Europe,Analytics Pro,SMB,57040,232,13,6,239,77,48,44,5.35
+2025-09,Q3,2025,Asia-Pacific,Core Platform,Enterprise,31000,186,10,3,193,79,38,35,5.1
+2025-09,Q3,2025,Asia-Pacific,Core Platform,Mid-Market,42160,211,11,5,217,78,42,39,5.3
+2025-09,Q3,2025,Asia-Pacific,Core Platform,SMB,53320,236,12,6,242,77,46,42,5.5
+2025-09,Q3,2025,Asia-Pacific,Analytics Pro,Enterprise,39060,200,12,4,208,80,45,41,5.1
+2025-09,Q3,2025,Asia-Pacific,Analytics Pro,Mid-Market,50220,225,13,5,233,79,49,45,5.3
+2025-09,Q3,2025,Asia-Pacific,Analytics Pro,SMB,61380,250,14,6,258,78,53,49,5.5
+2025-10,Q4,2025,North America,Core Platform,Enterprise,22536,153,9,3,159,77,29,26,4.55
+2025-10,Q4,2025,North America,Core Platform,Mid-Market,33804,178,10,4,184,76,33,29,4.75
+2025-10,Q4,2025,North America,Core Platform,SMB,45072,203,11,5,209,75,37,33,4.95
+2025-10,Q4,2025,North America,Analytics Pro,Enterprise,30674,167,11,3,175,78,36,32,4.55
+2025-10,Q4,2025,North America,Analytics Pro,Mid-Market,41942,192,12,4,200,77,40,35,4.75
+2025-10,Q4,2025,North America,Analytics Pro,SMB,53210,217,13,6,224,76,44,39,4.95
+2025-10,Q4,2025,Europe,Core Platform,Enterprise,26918,171,10,3,178,78,34,30,4.7
+2025-10,Q4,2025,Europe,Core Platform,Mid-Market,38186,196,11,4,203,77,38,33,4.9
+2025-10,Q4,2025,Europe,Core Platform,SMB,49454,221,12,6,227,76,42,37,5.1
+2025-10,Q4,2025,Europe,Analytics Pro,Enterprise,35056,185,12,3,194,79,41,36,4.7
+2025-10,Q4,2025,Europe,Analytics Pro,Mid-Market,46324,210,13,5,218,78,45,40,4.9
+2025-10,Q4,2025,Europe,Analytics Pro,SMB,57592,235,14,6,243,77,49,43,5.1
+2025-10,Q4,2025,Asia-Pacific,Core Platform,Enterprise,31300,189,11,3,197,79,39,34,4.85
+2025-10,Q4,2025,Asia-Pacific,Core Platform,Mid-Market,42568,214,12,5,221,78,43,38,5.05
+2025-10,Q4,2025,Asia-Pacific,Core Platform,SMB,53836,239,13,6,246,77,47,41,5.25
+2025-10,Q4,2025,Asia-Pacific,Analytics Pro,Enterprise,39438,203,13,4,212,80,46,40,4.85
+2025-10,Q4,2025,Asia-Pacific,Analytics Pro,Mid-Market,50706,228,14,5,237,79,50,44,5.05
+2025-10,Q4,2025,Asia-Pacific,Analytics Pro,SMB,61974,253,15,7,261,78,54,48,5.25
+2025-11,Q4,2025,North America,Core Platform,Enterprise,22752,156,10,3,163,77,30,27,4.3
+2025-11,Q4,2025,North America,Core Platform,Mid-Market,34128,181,11,4,188,76,34,31,4.5
+2025-11,Q4,2025,North America,Core Platform,SMB,45504,206,12,5,213,75,38,34,4.7
+2025-11,Q4,2025,North America,Analytics Pro,Enterprise,30968,170,12,3,179,78,37,33,4.3
+2025-11,Q4,2025,North America,Analytics Pro,Mid-Market,42344,195,13,4,204,77,41,37,4.5
+2025-11,Q4,2025,North America,Analytics Pro,SMB,53720,220,14,6,228,76,45,40,4.7
+2025-11,Q4,2025,Europe,Core Platform,Enterprise,27176,174,11,3,182,78,35,32,4.45
+2025-11,Q4,2025,Europe,Core Platform,Mid-Market,38552,199,12,4,207,77,39,35,4.65
+2025-11,Q4,2025,Europe,Core Platform,SMB,49928,224,13,6,231,76,43,39,4.85
+2025-11,Q4,2025,Europe,Analytics Pro,Enterprise,35392,188,13,3,198,79,42,38,4.45
+2025-11,Q4,2025,Europe,Analytics Pro,Mid-Market,46768,213,14,5,222,78,46,41,4.65
+2025-11,Q4,2025,Europe,Analytics Pro,SMB,58144,238,15,6,247,77,50,45,4.85
+2025-11,Q4,2025,Asia-Pacific,Core Platform,Enterprise,31600,192,12,3,201,79,40,36,4.6
+2025-11,Q4,2025,Asia-Pacific,Core Platform,Mid-Market,42976,217,13,5,225,78,44,40,4.8
+2025-11,Q4,2025,Asia-Pacific,Core Platform,SMB,54352,242,14,6,250,77,48,43,5.0
+2025-11,Q4,2025,Asia-Pacific,Analytics Pro,Enterprise,39816,206,14,4,216,80,47,42,4.6
+2025-11,Q4,2025,Asia-Pacific,Analytics Pro,Mid-Market,51192,231,15,5,241,79,51,46,4.8
+2025-11,Q4,2025,Asia-Pacific,Analytics Pro,SMB,62568,256,16,7,265,78,55,50,5.0
+2025-12,Q4,2025,North America,Core Platform,Enterprise,22968,159,11,3,167,77,31,29,4.05
+2025-12,Q4,2025,North America,Core Platform,Mid-Market,34452,184,12,4,192,76,35,32,4.25
+2025-12,Q4,2025,North America,Core Platform,SMB,45936,209,13,5,217,75,39,36,4.45
+2025-12,Q4,2025,North America,Analytics Pro,Enterprise,31262,173,13,3,183,78,38,35,4.05
+2025-12,Q4,2025,North America,Analytics Pro,Mid-Market,42746,198,14,4,208,77,42,39,4.25
+2025-12,Q4,2025,North America,Analytics Pro,SMB,54230,223,15,6,232,76,46,42,4.45
+2025-12,Q4,2025,Europe,Core Platform,Enterprise,27434,177,12,3,186,78,36,33,4.2
+2025-12,Q4,2025,Europe,Core Platform,Mid-Market,38918,202,13,4,211,77,40,37,4.4
+2025-12,Q4,2025,Europe,Core Platform,SMB,50402,227,14,6,235,76,44,40,4.6
+2025-12,Q4,2025,Europe,Analytics Pro,Enterprise,35728,191,14,3,202,79,43,40,4.2
+2025-12,Q4,2025,Europe,Analytics Pro,Mid-Market,47212,216,15,5,226,78,47,43,4.4
+2025-12,Q4,2025,Europe,Analytics Pro,SMB,58696,241,16,6,251,77,51,47,4.6
+2025-12,Q4,2025,Asia-Pacific,Core Platform,Enterprise,31900,195,13,4,204,79,41,38,4.35
+2025-12,Q4,2025,Asia-Pacific,Core Platform,Mid-Market,43384,220,14,5,229,78,45,41,4.55
+2025-12,Q4,2025,Asia-Pacific,Core Platform,SMB,54868,245,15,6,254,77,49,45,4.75
+2025-12,Q4,2025,Asia-Pacific,Analytics Pro,Enterprise,40194,209,15,4,220,80,48,44,4.35
+2025-12,Q4,2025,Asia-Pacific,Analytics Pro,Mid-Market,51678,234,16,5,245,79,52,48,4.55
+2025-12,Q4,2025,Asia-Pacific,Analytics Pro,SMB,63162,259,17,7,269,78,56,52,4.75

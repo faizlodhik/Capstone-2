@@ -1,0 +1,34 @@
+NORTHSTAR ANALYTICS — SALES PERFORMANCE POLICY
+Document status: Synthetic test data
+Effective date: January 1, 2024
+Policy owner: Marcus Lee, Vice President of Sales
+
+SCOPE
+This policy governs sales performance reporting for Core Platform and Analytics Pro across
+North America, Europe, and Asia-Pacific. It covers Enterprise, Mid-Market, and SMB segments.
+
+METRICS
+Revenue is recorded as a fictional monthly amount in the business_metrics.csv file.
+Customers_start, new_customers, churned_customers, and customers_end support customer-base
+analysis. The reconciliation formula is customers_end = customers_start + new_customers
+- churned_customers.
+
+PERFORMANCE REVIEW
+Sales performance is reviewed monthly and summarized quarterly. Regional comparisons should
+consider product mix, customer segment, new-customer volume, churn, and customer-success
+outcomes. Q4 means October, November, and December.
+
+OPERATING EXPECTATIONS
+Sales teams must maintain accurate opportunity and customer records. Material forecast
+changes require an explanation. Customer commitments involving product capability, service
+levels, or implementation timing must be coordinated with Customer Success and Engineering.
+
+CUSTOMER SUCCESS LINKAGE
+Sales performance is not evaluated only on new revenue. Leadership should also review
+churned customers, support workload, resolution time, and employee satisfaction. A policy
+change should be considered when sales incentives appear to encourage commitments that
+increase complaints, support cases, or avoidable churn.
+
+GOVERNANCE
+Marcus Lee owns monthly performance reporting. Priya Nair provides customer-success context,
+and Elena Brooks provides relevant employee-satisfaction trends.

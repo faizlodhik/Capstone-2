@@ -1,0 +1,35 @@
+NORTHSTAR ANALYTICS — INFORMATION SECURITY POLICY
+Document status: Synthetic test data
+Effective date: January 1, 2024
+Review date: December 31, 2025
+Policy owner: Maya Chen, Director of Security Operations
+
+PURPOSE
+This policy defines the minimum information-security requirements for Northstar Analytics,
+a fictional company. It applies to Engineering, Sales, Customer Success, and Operations.
+
+ACCESS MANAGEMENT
+All workforce members must use company-managed accounts and multifactor authentication.
+Access reviews must be completed quarterly. The target is 100% completion within 10 business
+days of each quarter-end. Departing personnel must have access removed within four hours
+of confirmed departure notification.
+
+DATA CLASSIFICATION
+Company data is classified as Public, Internal, Confidential, or Restricted. Customer
+contracts, credentials, employee records, and production data are Restricted. Restricted
+data may be accessed only by authorized personnel with a documented business need.
+
+SECURITY INCIDENTS
+Suspected security incidents must be reported to Security Operations immediately. Critical
+incidents require acknowledgement within 30 minutes, containment within four hours when
+practicable, and a documented post-incident review within 10 business days.
+
+ENGINEERING CONTROLS
+Production changes require approved code review, automated testing, and deployment logging.
+Secrets must not be stored in source code. Vulnerability findings rated Critical or High
+must have an owner and remediation plan within two business days.
+
+TRAINING AND EVIDENCE
+Security training is required annually, with a target completion rate of at least 98%.
+Evidence includes access-review records, training reports, incident records, and deployment
+logs. Maya Chen is responsible for policy monitoring and quarterly reporting.
